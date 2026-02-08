@@ -59,9 +59,9 @@ platforms:
     - id: "tencent"
       name: "腾讯网"
     - id: "cnn"
-      name: "CNN"
+      name: "CNN NEWS"
     - id: "bbc"
-      name: "BBC"
+      name: "BBC NEWS"
       
 
 
