@@ -58,10 +58,10 @@ platforms:
       name: "联合早报"
     - id: "tencent"
       name: "腾讯网"
-    - id: "cnn"
-      name: "CNN NEWS"
-    - id: "bbc"
-      name: "BBC NEWS"
+    - id: "jin10"
+      name: "金十数据"
+    - id: "fastbull"
+      name: "法布财经"
       
 
 
